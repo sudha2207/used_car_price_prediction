@@ -28,8 +28,8 @@ UsedCarProject/
 │   └── cardekho_dataset.csv
 │
 ├── screenshots/
-│   ├── ui.png
-│   ├── prediction.png
+│   ├── streamlite.png
+│   ├── predicted result.png
 │   └── feature_importance.png
 │
 ├── app.py
