@@ -1,0 +1,11 @@
+REQUIREMENTS:
+Done on VS CODE
+
+Libraries used:
+pandas
+numpy
+matplotlib
+scikit-learn
+
+UI used:
+streamlit
