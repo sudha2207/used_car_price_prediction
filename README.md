@@ -46,3 +46,7 @@ pip install -r requirements.txt
 2. Run the Streamlit app
 
 py -m streamlit run app.py
+
+## Live Demo of streamlite:
+ Local URL: http://localhost:8501
+Network URL: http://10.104.148.7:8501
